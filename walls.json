@@ -1,52 +1,52 @@
 [{
-	"name": "20211017_211907",
-	"author": "DevHora",
-	"url": "https://github.com/hourra012/DevHora/raw/main/20211017_211907.jpg",
-	"thumbnail": "",
-	"collections": "devhora,gradient",
-	"dimensions": "1920 x 1080 px",
-	"copyright": "Personal Use, Credits Required",
-	"downloadable": true
-}]
+		"name": "20211017_211907",
+		"author": "DevHora",
+		"url": "https://github.com/hourra012/DevHora/raw/main/20211017_211907.jpg",
+		"thumbnail": "",
+		"collections": "devhora,gradient",
+		"dimensions": "1920 x 1080 px",
+		"copyright": "Personal Use, Credits Required",
+		"downloadable": true
+	},
 
-[{
-	"name": "small_1_pnj.png",
-	"author": "DevHora",
-	"url": "https://github.com/hourra012/walwal/raw/main/small_1_pnj.png",
-	"thumbnail": "",
-	"collections": "devhora,gradient",
-	"dimensions": "3200 x 2560 px",
-	"copyright": "Personal Use, Credits Required",
-	"downloadable": true
-}]
-[{
-	"name": "20211017_211907",
-	"author": "DevHora",
-	"url": "https://github.com/hourra012/DevHora/raw/main/untitled%20(1).png",
-	"thumbnail": "",
-	"collections": "devhora,gradient",
-	"dimensions": "1920 x 1080 px",
-	"copyright": "Personal Use, Credits Required",
-	"downloadable": true
-}]
-[{
-	"name": "20211017_211907",
-	"author": "DevHora",
-	"url": "https://github.com/hourra012/DevHora/raw/main/untitled%20(2).png",
-	"thumbnail": "",
-	"collections": "devhora,gradient",
-	"dimensions": "1920 x 1080 px",
-	"copyright": "Personal Use, Credits Required",
-	"downloadable": true
-}]
-[{
-	"name": "20211017_211907",
-	"author": "DevHora",
-	"url": "https://github.com/hourra012/DevHora/raw/main/untitled%20(3).png",
-	"thumbnail": "",
-	"collections": "devhora,gradient",
-	"dimensions": "1920 x 1080 px",
-	"copyright": "Personal Use, Credits Required",
-	"downloadable": true
-}]
-
+	{
+		"name": "small_1",
+		"author": "DevHora",
+		"url": "https://github.com/hourra012/walwal/raw/main/small_1_pnj.png",
+		"thumbnail": "",
+		"collections": "devhora,gradient",
+		"dimensions": "3200 x 2560 px",
+		"copyright": "Personal Use, Credits Required",
+		"downloadable": true
+	},
+	{
+		"name": "20211017_211907",
+		"author": "DevHora",
+		"url": "https://github.com/hourra012/DevHora/raw/main/untitled%20(1).png",
+		"thumbnail": "",
+		"collections": "devhora,gradient",
+		"dimensions": "1920 x 1080 px",
+		"copyright": "Personal Use, Credits Required",
+		"downloadable": true
+	},
+	{
+		"name": "20211017_211907",
+		"author": "DevHora",
+		"url": "https://github.com/hourra012/DevHora/raw/main/untitled%20(2).png",
+		"thumbnail": "",
+		"collections": "devhora,gradient",
+		"dimensions": "1920 x 1080 px",
+		"copyright": "Personal Use, Credits Required",
+		"downloadable": true
+	},
+	{
+		"name": "20211017_211907",
+		"author": "DevHora",
+		"url": "https://github.com/hourra012/DevHora/raw/main/untitled%20(3).png",
+		"thumbnail": "",
+		"collections": "devhora,gradient",
+		"dimensions": "1920 x 1080 px",
+		"copyright": "Personal Use, Credits Required",
+		"downloadable": true
+	}
+]
