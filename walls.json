@@ -78,5 +78,15 @@
 		"dimensions": "1920 x 1080 px",
 		"copyright": "Personal Use, Credits Required",
 		"downloadable": true
+	},
+           {
+		"name": "baniyo",
+		"author": "DevHora",
+		"url": "https://github.com/hourra012/DevHora/raw/main/baniyo.tif",
+		"thumbnail": "",
+		"collections": "devhora,gradient",
+		"dimensions": "1920 x 1080 px",
+		"copyright": "Personal Use, Credits Required",
+		"downloadable": true
 	}
 ]
