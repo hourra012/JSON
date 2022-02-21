@@ -78,25 +78,5 @@
 		"dimensions": "1920 x 1080 px",
 		"copyright": "Personal Use, Credits Required",
 		"downloadable": true
-	},
-           {
-		"name": "untitled",
-		"author": "DevHora",
-		"url": "https://github.com/hourra012/DevHora/raw/main/untitled-(7).png",
-		"thumbnail": "",
-		"collections": "devhora,gradient",
-		"dimensions": "1920 x 1080 px",
-		"copyright": "Personal Use, Credits Required",
-		"downloadable": true
-	},  
-         {
-		"name": "untitled",
-		"author": "DevHora",
-		"url": "https://github.com/hourra012/DevHora/raw/main/untitled-(8).png",
-		"thumbnail": "",
-		"collections": "devhora,gradient",
-		"dimensions": "1920 x 1080 px",
-		"copyright": "Personal Use, Credits Required",
-		"downloadable": true
 	}
 ]
